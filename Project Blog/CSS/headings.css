@@ -1,0 +1,22 @@
+h1{
+			font-family: abril-display, serif; 
+			font-weight: 900; 
+			font-style: normal; 
+			font-size: 450%;
+			letter-spacing: 0.2em; 
+			text-shadow:1px 16px 46px #aaa;
+		}
+h2{ 
+			font-family: marigny, sans-serif;
+			font-weight: 200;
+			font-style: italic;
+			font-size: 150%;
+			color: #black;
+		}
+
+		h3{
+			font-family: marigny, sans-serif;
+			font-weight: 900;
+			font-style: italic;
+			font-size: 180%;
+		}
