@@ -1,3 +1,7 @@
+@import "layout.css";
+@import "mystyle.css";
+@import "viewport.css";
+
 	p{  
 			font-family: jaf-bernina-sans,sans-serif;
 			font-weight: 100;
@@ -15,4 +19,5 @@
 			list-style-type: none;
 			text-decoration: none;
 			text-align: justify;
+			display: inline;
 		}

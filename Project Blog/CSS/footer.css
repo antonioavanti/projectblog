@@ -1,3 +1,7 @@
+@import "layout.css";
+@import "mystyle.css";
+@import "viewport.css";
+
 #footer{ 
 			grid-area: foot;
 			display: flex;
@@ -6,6 +10,7 @@
 			justify-content: center;
 			background-color: white;
 			width: 87%;
+			border: 0px solid red;
 		}
 
 		.footbox{
@@ -20,4 +25,3 @@
 			font-style: normal;
 			font-size: 300%;
 		}
-

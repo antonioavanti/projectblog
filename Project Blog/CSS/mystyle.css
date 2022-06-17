@@ -1,9 +1,10 @@
+		@import "viewport.css";
+		@import "layout.css";
+		@import "content.css";
+
 		.body{
 			background-color: #E9EDF2;
 		}
-		@import 'headings.css';
-		@import 'content.css';
-		@import 'footer.css';
 
 		.box{
 			display: flex;

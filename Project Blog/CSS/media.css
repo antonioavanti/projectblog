@@ -1,3 +1,8 @@
+@import "mystyle.css";
+@import "content.css";
+@import "layout.css";
+
+
 #photogallery{
 			display: grid;
 			grid-template-columns: 33% 33% 33%;

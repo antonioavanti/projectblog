@@ -1,3 +1,7 @@
+@import "layout.css";
+@import "mystyle.css";
+@import "viewport.css";
+
 h1{
 			font-family: abril-display, serif; 
 			font-weight: 900; 
