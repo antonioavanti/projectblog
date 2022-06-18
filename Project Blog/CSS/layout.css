@@ -1,6 +1,8 @@
 @import "viewport.css";
-@import "mystyle.css";
+@import "headings.css";
 @import "media.css";
+@import "content.css";
+@import "footer.css";
 
 
 .box{
