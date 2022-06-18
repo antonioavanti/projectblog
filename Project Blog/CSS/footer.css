@@ -1,6 +1,4 @@
-@import "layout.css";
-@import "mystyle.css";
-@import "viewport.css";
+
 
 #footer{ 
 			grid-area: foot;
